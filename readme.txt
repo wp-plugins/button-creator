@@ -14,7 +14,7 @@ Easily create a submit button for your Wordpress site.
 
 Easily create a submit button for your Wordpress site.
 
-*  [Upgrade to the Free Advanced Version!](http://www.thinklandingpages.com)
+*  [Upgrade to the Free Advanced Version!](http://www.thinklandingpages.com/landingpage/wordpress-button-creator/)
 
 ###What you get when you use the Wordpress Button creator plugin
 
@@ -29,7 +29,7 @@ Easily create a submit button for your Wordpress site.
 *  Google Web Fonts
 *  More sizes
 
-*  [Upgrade to the Free Advanced Version!](http://www.thinklandingpages.com)
+*  [Upgrade to the Free Advanced Version!](http://www.thinklandingpages.com/landingpage/wordpress-button-creator/)
 
 == Installation ==
 
